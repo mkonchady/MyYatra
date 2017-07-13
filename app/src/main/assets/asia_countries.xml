@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="Turkey"
+       code="TUR"
+       lat="49.2793N"
+       lon="41.6016E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Syria"
+       code="SYR"
+       lat="44.6365N"
+       lon="40.5859E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Iraq"
+       code="IRQ"
+       lat="40.5463N"
+       lon="43.2812E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Iran"
+       code="IRN"
+       lat="35.9864N"
+       lon="52.8125E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Jordan"
+       code="JOR"
+       lat="42.2598N"
+       lon="35.6641E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Israel"
+       code="ISR"
+       lat="43.8074N"
+       lon="34.8828E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Lebanon"
+       code="LEB"
+       lat="45.1063N"
+       lon="37.8516E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Saudi Arabia"
+       code="SAA"
+       lat="31.7028N"
+       lon="37.0703E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Yemen"
+       code="YEM"
+       lat="23.7713N"
+       lon="34.4922E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Oman"
+       code="OMA"
+       lat="23.1080N"
+       lon="49.4531E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="UAE"
+       code="UAE"
+       lat="27.1429N"
+       lon="48.2812E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Qatar"
+       code="QAT"
+       lat="29.7683N"
+       lon="45.9766E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bahrain"
+       code="BAH"
+       lat="31.5094N"
+       lon="45.0781E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kuwait"
+       code="KUW"
+       lat="35.1573N"
+       lon="45.1953E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Azerbaijan"
+       code="AZB"
+       lat="44.2772N"
+       lon="52.6953E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Armenia"
+       code="ARM"
+       lat="45.8370N"
+       lon="50.1172E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Georgia"
+       code="GEO"
+       lat="48.1031N"
+       lon="50.3516E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="India"
+       code="IND"
+       lat="20.4947N"
+       lon="75.1172E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Pakistan"
+       code="PAK"
+       lat="27.6801N"
+       lon="66.8750E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Afghanistan"
+       code="AFG"
+       lat="32.3506N"
+       lon="64.9609E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Turkmenistan"
+       code="TURKM"
+       lat="39.3701N"
+       lon="60.3516E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Uzbekistan"
+       code="UZBK"
+       lat="40.5308N"
+       lon="66.0156E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Tajikstan"
+       code="TAJI"
+       lat="35.5287N"
+       lon="71.5625E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Krygystan"
+       code="KRYGY"
+       lat="37.2698N"
+       lon="76.3281E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kazakstan"
+       code="KAZ"
+       lat="45.0079N"
+       lon="71.7969E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Nepal"
+       code="NEP"
+       lat="23.0372N"
+       lon="84.0625E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Sri Lanka"
+       code="SLA"
+       lat="4.5211N"
+       lon="77.8516E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Maldives"
+       code="MLDV"
+       lat="4.0789N"
+       lon="66.5234E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bangladesh"
+       code="BAN"
+       lat="18.5602N"
+       lon="91.1328E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bhutan"
+       code="BHU"
+       lat="21.8489N"
+       lon="92.3047E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mongolia"
+       code="MON"
+       lat="40.4756N"
+       lon="102.6172E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="China"
+       code="CHI"
+       lat="29.1724N"
+       lon="117.1875E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Myanmar"
+       code="MYA"
+       lat="16.2387N"
+       lon="97.7344E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Thailand"
+       code="THAI"
+       lat="10.8497N"
+       lon="106.4844E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Laos"
+       code="LAOS"
+       lat="15.0504N"
+       lon="107.2656E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Vietnam"
+       code="VIET"
+       lat="16.9573N"
+       lon="111.1328E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Cambodia"
+       code="CAM"
+       lat="8.3072N"
+       lon="110.6250E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Malaysia"
+       code="MAL"
+       lat="0.9007N"
+       lon="107.7734E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Singapore"
+       code="SING"
+       lat="1.8352S"
+       lon="111.3672E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Indonesia"
+       code="INDO"
+       lat="8.3850S"
+       lon="116.4062E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Brunei"
+       code="BRU"
+       lat="2.9182N"
+       lon="126.6016E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Philippines"
+       code="PHI"
+       lat="14.4977N"
+       lon="132.8906E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Hong Kong"
+       code="HONK"
+       lat="18.8642N"
+       lon="121.6797E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Taiwan"
+       code="TAIW"
+       lat="21.4067N"
+       lon="131.0938E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="South Korea"
+       code="SKO"
+       lat="35.4458N"
+       lon="133.1250E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="North Korea"
+       code="NKO"
+       lat="38.7345N"
+       lon="130.1562E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Japan"
+       code="JAP"
+       lat="39.1767N"
+       lon="142.7734E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Russia"
+       code="RUS"
+       lat="50.9496N"
+       lon="89.4089E"
+     />
+   </Record>
+
+</Records>

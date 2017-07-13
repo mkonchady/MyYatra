@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference android:id="@+id/level"
+        android:title="Level"
+        android:summary="Choose the user level"
+        android:key="DIM"
+        android:defaultValue="16"
+        android:entries="@array/DIMArray"
+        android:entryValues="@array/DIMValues" />
+
+    <ListPreference android:id="@+id/computerlevel"
+        android:title="Computer Solution Time"
+        android:summary="Choose the computer solution time"
+        android:key="Computer_Time"
+        android:defaultValue="4"
+        android:entries="@array/Computer_TimeArray"
+        android:entryValues="@array/Computer_TimeValues" />
+
+    <ListPreference android:id="@+id/vibrateCity"
+        android:title="Vibrate on touch"
+        android:summary="Vibrate when a city is selected"
+        android:key="vibrate_city"
+        android:defaultValue="true"
+        android:entries="@array/Vibrate_cityArray"
+        android:entryValues="@array/Vibrate_cityValues" />
+
+</PreferenceScreen>

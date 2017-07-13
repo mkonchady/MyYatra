@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.mkonchady.myyatra"
+    android:versionCode="2"
+    android:versionName="@string/version"
+    >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="org.mkonchady.myyatra.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.IndiaActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.USActivity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.UKActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.FranceActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.DCActivity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.KAActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.AfricaActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.EuropeActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.AsiaActivity"
+            android:screenOrientation="landscape">
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="John o'Groats"
+       code="JOG"
+       lat="58.7875N"
+       lon="3.3151W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Aberdeen"
+       code="ABE"
+       lat="57.3856N"
+       lon="2.3216W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Dundee"
+       code="DUN"
+       lat="56.8211N"
+       lon="3.4883W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Glasgow"
+       code="GLG"
+       lat="56.3168N"
+       lon="4.6003W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Edinburgh"
+       code="EDI"
+       lat="56.2706N"
+       lon="3.5794W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Belfast"
+       code="BEL"
+       lat="55.0491N"
+       lon="6.4414W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Londonderry"
+       code="LDY"
+       lat="55.3869N"
+       lon="7.7357W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Newcastle"
+       code="NEW"
+       lat="55.4007N"
+       lon="1.6289W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Sunderland"
+       code="SUN"
+       lat="55.2018N"
+       lon="1.3828W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Middlesborough"
+       code="MBH"
+       lat="54.9890N"
+       lon="1.2643W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="York"
+       code="YOR"
+       lat="54.7114N"
+       lon="1.4740W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Leeds"
+       code="LDS"
+       lat="54.5124N"
+       lon="2.0208W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Blackpool"
+       code="BPL"
+       lat="54.4985N"
+       lon="2.9232W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Liverpool"
+       code="LPL"
+       lat="54.1793N"
+       lon="3.0143W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Manchester"
+       code="MAN"
+       lat="54.1654N"
+       lon="2.0482W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Sheffield"
+       code="SHE"
+       lat="54.0729N"
+       lon="1.3281W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Nottimgham"
+       code="NOT"
+       lat="53.6611N"
+       lon="1.1458W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Derby"
+       code="DBY"
+       lat="53.6426N"
+       lon="1.9297W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Stokes"
+       code="STK"
+       lat="53.7814N"
+       lon="2.6224W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Birmingham"
+       code="BRM"
+       lat="53.3696N"
+       lon="2.4401W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Coventry"
+       code="CVY"
+       lat="53.1707N"
+       lon="1.7747W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Peterborough"
+       code="PBH"
+       lat="53.3233N"
+       lon="0.8724W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Armagh"
+       code="ARH"
+       lat="54.7299N"
+       lon="6.4049W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Norwich"
+       code="NOR"
+       lat="53.1776N"
+       lon="0.7591E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Northamptom"
+       code="NPN"
+       lat="52.9463N"
+       lon="1.0182W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Ipswich"
+       code="IPS"
+       lat="52.6270N"
+       lon="0.8776E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Oxford"
+       code="OXF"
+       lat="52.6131N"
+       lon="1.5560W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Gloucester"
+       code="GLO"
+       lat="52.5669N"
+       lon="2.7318W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Cardiff"
+       code="CAR"
+       lat="52.2014N"
+       lon="3.6341W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Swansea"
+       code="SWN"
+       lat="52.4466N"
+       lon="4.5365W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bristol"
+       code="BRI"
+       lat="52.0950N"
+       lon="2.8229W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Land's End"
+       code="LDE"
+       lat="50.9013N"
+       lon="5.9766W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Southampton"
+       code="SPN"
+       lat="51.6647N"
+       lon="1.7109W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Portsmouth"
+       code="PRH"
+       lat="51.6508N"
+       lon="1.0456W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Dover"
+       code="DVR"
+       lat="51.7109N"
+       lon="0.9961E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="London"
+       code="LON"
+       lat="52.5067N"
+       lon="1.2005W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Cambridge"
+       code="CAM"
+       lat="52.9463N"
+       lon="0.0521W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Carlisle"
+       code="CRL"
+       lat="55.4817N"
+       lon="2.9414W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Inverness"
+       code="INV"
+       lat="57.6747N"
+       lon="4.9193W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Elgin"
+       code="ELG"
+       lat="57.7950N"
+       lon="3.6341W"
+     />
+   </Record>
+
+</Records>

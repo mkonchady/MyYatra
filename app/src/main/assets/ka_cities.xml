@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="Belgaum"
+       code="BLG"
+       lat="16.0950N"
+       lon="74.7890E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Dharwad"
+       code="DHA"
+       lat="15.6678N"
+       lon="75.3727E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Karwar"
+       code="KAR"
+       lat="14.9574N"
+       lon="74.4871E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Haveri"
+       code="HAV"
+       lat="14.8583N"
+       lon="75.7260E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Shimoga"
+       code="SHA"
+       lat="13.9851N"
+       lon="75.7998E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Udupi"
+       code="UDU"
+       lat="13.5414N"
+       lon="74.9981E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mangalore"
+       code="MLR"
+       lat="12.9585N"
+       lon="75.1166E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chikkamagaluru"
+       code="CHK"
+       lat="13.4258N"
+       lon="76.0402E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Madikeri"
+       code="MDK"
+       lat="12.4204N"
+       lon="76.0245E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Hassan"
+       code="HSN"
+       lat="13.0836N"
+       lon="76.3488E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mysore"
+       code="MYS"
+       lat="12.3425N"
+       lon="76.7558E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chamarajnagar"
+       code="CHM"
+       lat="11.9295N"
+       lon="77.1679E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mandya"
+       code="MDA"
+       lat="12.5998N"
+       lon="77.0628E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Channapatna"
+       code="CHA"
+       lat="12.6871N"
+       lon="77.4541E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bangalore"
+       code="BLR"
+       lat="13.0199N"
+       lon="77.7426E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kolar"
+       code="KLR"
+       lat="13.3172N"
+       lon="78.2816E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chikkabalapur"
+       code="CHK"
+       lat="13.6429N"
+       lon="77.8679E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Tumkur"
+       code="TMK"
+       lat="13.4801N"
+       lon="77.3446E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chitradurga"
+       code="CHD"
+       lat="14.2282N"
+       lon="76.6263E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Davangere"
+       code="DVG"
+       lat="14.4241N"
+       lon="76.1477E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bellary"
+       code="BLY"
+       lat="15.3893N"
+       lon="77.0333E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Koppal"
+       code="KPL"
+       lat="15.4436N"
+       lon="76.3333E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Raichur"
+       code="RAI"
+       lat="16.4679N"
+       lon="77.4246E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Yadgir"
+       code="YAD"
+       lat="17.0437N"
+       lon="77.3441E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Gulbarga"
+       code="GLB"
+       lat="17.6573N"
+       lon="77.0646E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bidar"
+       code="BDR"
+       lat="18.2261N"
+       lon="77.6684E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bijapur"
+       code="BJP"
+       lat="17.0579N"
+       lon="75.9934E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bagalkot"
+       code="BGK"
+       lat="16.3735N"
+       lon="75.9253E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Gadag"
+       code="GDG"
+       lat="15.5805N"
+       lon="75.8739E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Doddabalapur"
+       code="DBP"
+       lat="13.3432N"
+       lon="77.6139E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="KREC Surathkal*****"
+       code="SKL"
+       lat="13.1296N"
+       lon="75.0768E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mulki"
+       code="MKY"
+       lat="13.3396N"
+       lon="75.0254E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kundapur"
+       code="KDP"
+       lat="13.9179N"
+       lon="74.9292E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Honavar"
+       code="HON"
+       lat="14.4536N"
+       lon="74.7458E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Uppinangadi"
+       code="UPG"
+       lat="12.9125N"
+       lon="75.6605E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Sakleshpur"
+       code="SKP"
+       lat="13.0541N"
+       lon="76.1033E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Channarayapatna"
+       code="CNP"
+       lat="13.2075N"
+       lon="76.7429E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kunigal"
+       code="KGL"
+       lat="13.2169N"
+       lon="77.2237E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Ramnagara"
+       code="RMG"
+       lat="12.8417N"
+       lon="77.5994E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Hosur"
+       code="HSR"
+       lat="12.8370N"
+       lon="77.9550E"
+     />
+   </Record>
+
+</Records>

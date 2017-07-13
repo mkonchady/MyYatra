@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.mkonchady.myyatra">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:configChanges="orientation|keyboardHidden"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="org.mkonchady.myyatra.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.AboutActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.PreferencesActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.IndiaActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.USActivity"
+
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.UKActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.FranceActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.DCActivity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.KAActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.AfricaActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.EuropeActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="org.mkonchady.myyatra.AsiaActivity"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity android:name=".ResultInfoActivity"
+            android:label="@string/activity_resultinfo"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="RESULTINFO_ACTION"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="Bayonne"
+       code="BAY"
+       lat="44.6164N"
+       lon="3.1541W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Pau"
+       code="PAU"
+       lat="44.4436N"
+       lon="2.4009W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bordeaux"
+       code="BOR"
+       lat="45.7569N"
+       lon="2.1766W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Toulouse"
+       code="TUL"
+       lat="44.5634N"
+       lon="1.2414W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Montauban"
+       code="MBN"
+       lat="44.8998N"
+       lon="1.3514W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Lorient"
+       code="LOR"
+       lat="48.0472N"
+       lon="4.2994W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Rennes"
+       code="REN"
+       lat="48.4044N"
+       lon="3.7831W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Nantes"
+       code="NAN"
+       lat="47.6141N"
+       lon="2.8859W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Angers"
+       code="ANG"
+       lat="47.9320N"
+       lon="2.4289W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Le Mans"
+       code="LMN"
+       lat="48.2823N"
+       lon="1.9126W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Caen"
+       code="CAE"
+       lat="49.1486N"
+       lon="1.8534W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Le Havre"
+       code="LEH"
+       lat="49.3998N"
+       lon="1.0155W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Evreux"
+       code="EVR"
+       lat="49.1217N"
+       lon="0.5966W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Rouen"
+       code="ROU"
+       lat="49.4581N"
+       lon="0.4019W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Calais"
+       code="CAL"
+       lat="50.4374N"
+       lon="0.4910E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Dunkirk"
+       code="DUN"
+       lat="50.5134N"
+       lon="1.0623E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Lille"
+       code="LIL"
+       lat="50.1955N"
+       lon="1.6632E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Amiens"
+       code="AMI"
+       lat="49.7139N"
+       lon="0.8542E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Reims"
+       code="REI"
+       lat="49.3130N"
+       lon="2.5268E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Paris"
+       code="PAR"
+       lat="48.9627N"
+       lon="0.8511E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Metz"
+       code="MET"
+       lat="49.1010N"
+       lon="4.5073E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Starbourg"
+       code="STR"
+       lat="48.7369N"
+       lon="6.1704E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mulhouse"
+       code="MUL"
+       lat="48.0526N"
+       lon="5.8742E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Dijon"
+       code="DIJ"
+       lat="47.8936N"
+       lon="4.7020E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Lyon"
+       code="LYN"
+       lat="46.5849N"
+       lon="3.8715E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chambers"
+       code="CHM"
+       lat="46.3890N"
+       lon="4.7051E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Grenoble"
+       code="GRE"
+       lat="45.9397N"
+       lon="4.3539E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Valence"
+       code="VAL"
+       lat="45.7116N"
+       lon="3.6853E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Nice"
+       code="NIC"
+       lat="44.8821N"
+       lon="6.1566E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Toulon"
+       code="TLN"
+       lat="44.3729N"
+       lon="5.0395E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Marseille"
+       code="MRS"
+       lat="44.4190N"
+       lon="4.2016E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Perpignan"
+       code="PER"
+       lat="43.9558N"
+       lon="1.5229E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Montpellier"
+       code="MPL"
+       lat="44.7001N"
+       lon="2.3015E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Poitiers"
+       code="POI"
+       lat="47.1137N"
+       lon="1.6891W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Orleans"
+       code="ORL"
+       lat="48.0791N"
+       lon="0.4872W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Nevers"
+       code="NEV"
+       lat="47.4962N"
+       lon="2.6698E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="St. Etienne"
+       code="STE"
+       lat="46.4017N"
+       lon="2.9195E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Aix-en-Provence"
+       code="AIX"
+       lat="44.7013N"
+       lon="4.4969E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Tours"
+       code="TRS"
+       lat="47.6944N"
+       lon="1.3775W"
+     />
+   </Record>
+
+    <Record>
+        <Row
+            city="Angouleme"
+            code="ANGO"
+            lat="46.0472N"
+            lon="1.6157W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Limoges"
+            code="LIMO"
+            lat="46.1532N"
+            lon="1.0995W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Clermont-Ferrand"
+            code="CLER"
+            lat="45.5311N"
+            lon="0.2531W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Besancon"
+            code="BESC"
+            lat="46.6118N"
+            lon="3.4878E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Bourges"
+            code="BOU"
+            lat="47.8629N"
+            lon="0.4179W"
+            />
+    </Record>
+
+</Records>

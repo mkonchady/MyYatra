@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+    <Record>
+        <Row
+            city="Srinagar"
+            code="SRI"
+            lat="34.1447N"
+            lon="76.7880E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Leh"
+            code="LEH"
+            lat="34.4598N"
+            lon="79.2452E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Jammu"
+            code="JAM"
+            lat="33.0511N"
+            lon="76.7188E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Amritsar"
+            code="AMR"
+            lat="31.3273N"
+            lon="76.5630E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Ludhiana"
+            code="LUD"
+            lat="30.8454N"
+            lon="77.1168E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Chandigarh"
+            code="CHA"
+            lat="30.7898N"
+            lon="77.9301E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="New Delhi"
+            code="DEL"
+            lat="28.5285N"
+            lon="78.4319E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Agra"
+            code="AGR"
+            lat="27.1754N"
+            lon="79.2452E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Lucknow"
+            code="LUC"
+            lat="26.5637N"
+            lon="81.5294E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Allahabad"
+            code="ALL"
+            lat="25.4701N"
+            lon="81.9794E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Varanasi"
+            code="VAR"
+            lat="25.3404N"
+            lon="83.7445E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Patna"
+            code="PAT"
+            lat="25.2292N"
+            lon="85.4057E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Kolkota"
+            code="KOL"
+            lat="21.9855N"
+            lon="88.1398E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Jamshedpur"
+            code="JPR"
+            lat="22.5416N"
+            lon="87.1189E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Gangtok"
+            code="GAN"
+            lat="27.3051N"
+            lon="88.0360E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Guwhati"
+            code="GUW"
+            lat="26.5136N"
+            lon="90.7702E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Agartala"
+            code="AGA"
+            lat="23.8260N"
+            lon="91.0470E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Bhubaneshwar"
+            code="BHU"
+            lat="19.6000N"
+            lon="85.4988E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Udaipur"
+            code="UDA"
+            lat="24.1782N"
+            lon="75.2891E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Ahmedabad"
+            code="AHM"
+            lat="22.7695N"
+            lon="74.0173E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Mumbai"
+            code="MUM"
+            lat="18.1913N"
+            lon="74.3460E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Pune"
+            code="PUN"
+            lat="17.5796N"
+            lon="75.6093E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Indore"
+            code="IND"
+            lat="22.5285N"
+            lon="78.2396E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Bhopal"
+            code="BHO"
+            lat="23.3812N"
+            lon="79.5028E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Nagpur"
+            code="NAG"
+            lat="20.4526N"
+            lon="79.5547E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Hyderabad"
+            code="HYD"
+            lat="16.5972N"
+            lon="79.9528E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Vijaywada"
+            code="VIJ"
+            lat="15.7446N"
+            lon="80.8699E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Chennai"
+            code="CHE"
+            lat="12.2044N"
+            lon="81.1641E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Bangalore"
+            code="BLR"
+            lat="12.3156N"
+            lon="78.3088E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Mysore"
+            code="MYS"
+            lat="11.6483N"
+            lon="77.5128E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Mangalore"
+            code="MLR"
+            lat="12.2044N"
+            lon="75.9035E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="KREC Surathkal*****"
+            code="SKL"
+            lat="12.8716N"
+            lon="75.7304E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Panaji"
+            code="PAN"
+            lat="14.7622N"
+            lon="75.0382E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Kanyakumari"
+            code="KYR"
+            lat="7.3110N"
+            lon="78.5338E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Belgaum"
+            code="BGM"
+            lat="15.7446N"
+            lon="75.9035E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Aurangabad"
+            code="AUR"
+            lat="18.7473N"
+            lon="77.7897E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Vishakpatnam"
+            code="VIS"
+            lat="16.8567N"
+            lon="83.5521E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Kochi"
+            code="KOC"
+            lat="10.8513N"
+            lon="76.6995E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Madurai"
+            code="MAD"
+            lat="9.0000N"
+            lon="78.7000E"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Gwalior"
+            code="GWA"
+            lat="26.2215N"
+            lon="79.1810E"
+            />
+    </Record>
+
+        <Record>
+            <Row
+                city="Jaipur"
+                code="JAI"
+                lat="26.6193N"
+                lon="76.8399E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Porbandar"
+                code="POR"
+                lat="21.3182N"
+                lon="71.3438E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Rajkot"
+                code="RAJK"
+                lat="21.9855N"
+                lon="72.6590E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Vadodra"
+                code="VADO"
+                lat="21.3182N"
+                lon="74.5971E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Surat"
+                code="SUR"
+                lat="20.0949N"
+                lon="74.5452E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Jhansi"
+                code="JHA"
+                lat="22.8937N"
+                lon="79.3905E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Dibrugarh"
+                code="DIBRU"
+                lat="29.1675N"
+                lon="93.4759E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Imphal"
+                code="IMPH"
+                lat="26.5910N"
+                lon="93.3721E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Kohima"
+                code="KOH"
+                lat="27.8144N"
+                lon="93.1990E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Aizawl"
+                code="AIZ"
+                lat="23.9034N"
+                lon="91.9877E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Margao"
+                code="MARG"
+                lat="14.3941N"
+                lon="75.1502E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Karwar"
+                code="KARW"
+                lat="13.8936N"
+                lon="75.4963E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Udupi"
+                code="UDU"
+                lat="13.0410N"
+                lon="75.7905E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Calicut"
+                code="CALI"
+                lat="11.3914N"
+                lon="76.2923E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Trichy"
+                code="TRIC"
+                lat="10.2236N"
+                lon="79.5456E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Pondicherry"
+                code="POND"
+                lat="11.0763N"
+                lon="80.6877E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Trivandrum"
+                code="TRIV"
+                lat="7.9067N"
+                lon="77.7805E"
+                />
+        </Record>
+
+        <Record>
+            <Row
+                city="Guntakal"
+                code="GUNT"
+                lat="16.5256N"
+                lon="79.0438E"
+                />
+        </Record>
+
+</Records>
+
+

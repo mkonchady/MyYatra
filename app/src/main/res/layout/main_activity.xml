@@ -1,0 +1,143 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="@color/white"
+    android:paddingTop="?android:attr/actionBarSize"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:text="@string/tsp_description"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/PapayaWhip"
+        android:background="@color/MidnightBlue"
+        android:textSize="16sp"
+        android:gravity="top"
+        android:layout_alignParentStart="false"/>
+
+
+    <LinearLayout
+        android:id="@+id/button_row1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="3dp"
+        android:layout_below="@+id/textView">
+
+        <ImageButton android:id="@+id/indiaButton"
+            android:src="@drawable/india"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/india_button"/>
+
+        <ImageButton android:id="@+id/usButton"
+            android:src="@drawable/us"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/us_button"/>
+
+        <ImageButton android:id="@+id/ukButton"
+            android:src="@drawable/uk"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/uk_button"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button_row2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="3dp"
+        android:layout_below="@+id/button_row1">
+
+        <ImageButton android:id="@+id/franceButton"
+            android:src="@drawable/france"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/france_button"/>
+
+        <ImageButton android:id="@+id/dcButton"
+            android:src="@drawable/dc"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/dc_button"/>
+
+
+        <ImageButton android:id="@+id/kaButton"
+            android:src="@drawable/ka"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/ka_button"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button_row3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="3dp"
+        android:layout_below="@+id/button_row2">
+
+        <ImageButton android:id="@+id/africaButton"
+            android:src="@drawable/africa"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/africa_button"/>
+
+        <ImageButton android:id="@+id/europeButton"
+            android:src="@drawable/europe"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/europe_button"/>
+
+        <ImageButton android:id="@+id/asiaButton"
+            android:src="@drawable/asia"
+            android:scaleType="fitCenter"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:background="#00000000"
+            android:text="@string/asia_button"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

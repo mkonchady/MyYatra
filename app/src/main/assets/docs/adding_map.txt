@@ -1,0 +1,37 @@
+To add a new map and cities -
+
+ 1. Get the outline of the map in the drawable folder of the BuildmapXML activity.
+
+ 2. Set the upper left and lower right corners lat/lon
+
+ 3. Run the build map XML activity to mark the cities and generate the XML file.
+    Copy the map.xml file from the emulator's storage to /tmp
+        copy_map_file.sh map.xml
+    Copy the map.xml file to the assets folder of the MyYatra activity.
+
+ 4. Create a dummy distance file and copy it to the assets folder of the MyYatra activity.
+    Use gen_matrix.py to generate the dummy distance file.
+
+ 5. Check if all the cities are visible in the correct locations from MyYatra.
+    Change the code in YatraView to look at all cities.
+
+    Add the button to start the new activity and include it in the manifest.
+
+ 6. Run the activity test app to generate the distance matrix for the cities.
+    Then copy the matrix from the emulator's storage to /tmp
+        copy_android_file.sh asia_dist_temp.txt
+
+ 7. Copy the correct distance matrix file to assets folder
+
+ 8. View the app with the new matrix and XML file. Comment the all cities line
+    in YatraView
+
+ To add new cities
+
+ 1. Run buildMapXML to generate the XML for the cities
+
+ 2. Append the XML to the existing XML file
+
+ 3. Re-generate the distance matrix
+
+ 4. Verify the distance matrix and cities XML files

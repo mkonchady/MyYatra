@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="Mormon Temple"
+       code="MMT"
+       lat="39.0125N"
+       lon="77.0342W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Forest Glen"
+       code="FGL"
+       lat="39.0283N"
+       lon="77.0110W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Silver Spring"
+       code="SSP"
+       lat="38.9859N"
+       lon="76.9915W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="NIH"
+       code="NIH"
+       lat="38.9830N"
+       lon="77.0536W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Rockville"
+       code="RCK"
+       lat="39.0342N"
+       lon="77.0846W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bethesda"
+       code="BTH"
+       lat="38.9925N"
+       lon="77.0897W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chevy Chase"
+       code="CCH"
+       lat="38.9924N"
+       lon="77.0395W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Potomac"
+       code="POT"
+       lat="39.0127N"
+       lon="77.1236W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Cabin John"
+       code="CBJ"
+       lat="38.9795N"
+       lon="77.1030W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="McLean"
+       code="MCL"
+       lat="38.9422N"
+       lon="77.1301W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Tyson's Corner"
+       code="TYS"
+       lat="38.9329N"
+       lon="77.1563W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Dunn Loring"
+       code="DNL"
+       lat="38.9021N"
+       lon="77.1542W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Annandale"
+       code="AND"
+       lat="38.8727N"
+       lon="77.1082W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Braddock"
+       code="BDK"
+       lat="38.8446N"
+       lon="77.1481W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Springfield"
+       code="SPF"
+       lat="38.8218N"
+       lon="77.1219W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Arlington"
+       code="ARL"
+       lat="38.8908N"
+       lon="77.0663W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Falls Church"
+       code="FCH"
+       lat="38.9017N"
+       lon="77.1216W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Seven Corners"
+       code="SVC"
+       lat="38.8819N"
+       lon="77.0917W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bailey's Cross Road"
+       code="BCR"
+       lat="38.8727N"
+       lon="77.0818W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Pentagon City"
+       code="PCY"
+       lat="38.8727N"
+       lon="77.0212W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Alexandria"
+       code="ALX"
+       lat="38.8236N"
+       lon="77.0147W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Landmark"
+       code="LMK"
+       lat="38.8310N"
+       lon="77.0687W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Capitol Hill"
+       code="CHL"
+       lat="38.8990N"
+       lon="76.9832W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="The White House"
+       code="TWH"
+       lat="38.9142N"
+       lon="77.0045W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Washington Memorial"
+       code="WAM"
+       lat="38.8976N"
+       lon="77.0035W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Lincoln Memorial"
+       code="LIM"
+       lat="38.8981N"
+       lon="77.0165W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Smithsonian"
+       code="SMT"
+       lat="38.8937N"
+       lon="76.9935W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="US Naval Observatory"
+       code="USN"
+       lat="38.9427N"
+       lon="77.0292W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="National Zoo"
+       code="ZOO"
+       lat="38.9649N"
+       lon="77.0008W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Washington National Cathedral"
+       code="WNC"
+       lat="38.9572N"
+       lon="77.0354W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Oxon Hill"
+       code="OXH"
+       lat="38.8180N"
+       lon="76.9752W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Andrews Air Force Base"
+       code="AFB"
+       lat="38.8426N"
+       lon="76.8781W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Capitol Heights"
+       code="CPH"
+       lat="38.8944N"
+       lon="76.9012W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Goddard Space Flight Center"
+       code="GSFC"
+       lat="39.0025N"
+       lon="76.8577W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Greenbelt"
+       code="GBL"
+       lat="39.0055N"
+       lon="76.8841W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Landover"
+       code="LDV"
+       lat="38.9625N"
+       lon="76.8910W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="University of Maryland"
+       code="UMD"
+       lat="38.9862N"
+       lon="76.9230W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Beltsville"
+       code="BEL"
+       lat="39.0285N"
+       lon="76.9137W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Takoma Park"
+       code="TKP"
+       lat="38.9833N"
+       lon="76.9539W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Catholic University of America"
+       code="CUA"
+       lat="38.9326N"
+       lon="76.9605W"
+     />
+   </Record>
+
+</Records>

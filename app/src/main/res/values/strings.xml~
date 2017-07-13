@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyYatra</string>
+    <string name="app_image">TSP Image</string>
+    <string name="tsp_description">Find the the shortest possible route that visits each
+        location exactly once and returns to the origin. </string>
+    <string name="action_settings">Settings</string>
+    <string name="india_button">India</string>
+    <string name="us_button">US</string>
+    <string name="africa_button">Africa</string>
+    <string name="europe_button">Europe</string>
+    <string name="asia_button">Asia</string>
+    <string name="france_button">France</string>
+    <string name="uk_button">Great Britain</string>
+    <string name="dc_button">Washington D.C.</string>
+    <string name="ka_button">Karnataka</string>
+    <string name="left">left</string>
+    <string name="version">0.2</string>
+
+
+</resources>

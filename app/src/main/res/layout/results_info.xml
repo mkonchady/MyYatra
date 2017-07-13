@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id= "@+id/tablelayout"
+    android:layout_width= "wrap_content"
+    android:layout_height= "wrap_content"
+    android:layout_margin="0dp"
+    android:background="#80000000"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:background="@color/header_background">
+        <TextView
+            android:id="@+id/resTextView00a"
+            android:layout_width="0dip"
+            android:layout_weight="0.1"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/header_foreground"
+            android:text="@string/route"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/resTextView00b"
+            android:layout_width="0dip"
+            android:layout_weight="0.1"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/header_foreground"
+            android:text="@string/distance"
+            android:gravity="center"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/resTextView01a"
+            android:layout_weight="0.5"
+            android:background="#BBDEFB"
+            android:textColor="#000000"
+            android:text="@string/your"
+            android:padding="5dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/resTextView01b"
+            android:text=""
+            android:layout_weight="1"
+            android:background="#BBDEFB"
+            android:textColor="#000000"
+            android:padding="5dip" android:gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/resTextView02a"
+            android:text="@string/computer"
+            android:layout_weight="0.5"
+            android:background="#E3F2FD"
+            android:textColor="#000000"
+            android:padding="5dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/resTextView02b"
+            android:text=""
+            android:layout_weight="1"
+            android:background="#E3F2FD"
+            android:textColor="#000000"
+            android:padding="5dip" android:gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/resTextView03a"
+            android:text="@string/difference"
+            android:layout_weight="0.5"
+            android:background="#BBDEFB"
+            android:textColor="#000000"
+            android:padding="5dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/resTextView03b"
+            android:text=""
+            android:layout_weight="1"
+            android:background="#BBDEFB"
+            android:textColor="#000000"
+            android:padding="5dip" android:gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/resTextView04a"
+            android:text="@string/score"
+            android:layout_weight="0.5"
+            android:background="#E3F2FD"
+            android:textColor="#000000"
+            android:padding="5dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/resTextView04b"
+            android:text=""
+            android:layout_weight="1"
+            android:background="#E3F2FD"
+            android:textColor="#000000"
+            android:padding="5dip" android:gravity="center"/>
+    </TableRow>
+
+</TableLayout>

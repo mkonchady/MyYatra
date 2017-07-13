@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="Boston"
+       code="BOS"
+       lat="42.1199N"
+       lon="88.8317W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="New York"
+       code="JFK"
+       lat="40.4580N"
+       lon="90.3092W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Atlantic City"
+       code="ACY"
+       lat="39.3630N"
+       lon="90.7873W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Philadelphia"
+       code="PHL"
+       lat="39.4403N"
+       lon="92.0765W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Baltimore"
+       code="BWI"
+       lat="38.8090N"
+       lon="92.4676W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Washington D.C."
+       code="DCA"
+       lat="38.3839N"
+       lon="92.8442W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Raleigh"
+       code="RDU"
+       lat="35.5754N"
+       lon="93.7568W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Charlotte"
+       code="CLT"
+       lat="34.6349N"
+       lon="96.0456W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Buffalo"
+       code="BUF"
+       lat="41.5660N"
+       lon="94.7563W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Detroit"
+       code="DET"
+       lat="40.8445N"
+       lon="98.1460W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Indianapolis"
+       code="IND"
+       lat="38.8477N"
+       lon="100.1595W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Pittsburgh"
+       code="PIT"
+       lat="40.0329N"
+       lon="95.5241W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Green Bay"
+       code="GRB"
+       lat="43.1377N"
+       lon="101.5501W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chicago"
+       code="ORD"
+       lat="40.4580N"
+       lon="101.5501W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Minneapolis"
+       code="MSP"
+       lat="43.7303N"
+       lon="106.0842W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kansas City"
+       code="MKC"
+       lat="38.1649N"
+       lon="106.8953W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Omaha"
+       code="OMA"
+       lat="39.9943N"
+       lon="107.9963W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Tampa"
+       code="TPA"
+       lat="27.0339N"
+       lon="96.0094W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Miami"
+       code="MIA"
+       lat="25.6812N"
+       lon="93.7061W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Jacksonville"
+       code="JAX"
+       lat="29.9197N"
+       lon="95.5313W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Dallas"
+       code="DFW"
+       lat="31.6203N"
+       lon="108.6699W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Austin"
+       code="AUS"
+       lat="29.8811N"
+       lon="110.9151W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="San Antonio"
+       code="SAT"
+       lat="28.4768N"
+       lon="111.7263W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Houston"
+       code="HOU"
+       lat="28.3995N"
+       lon="108.0904W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Memphis"
+       code="MEM"
+       lat="34.2613N"
+       lon="102.8901W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Oklahoma City"
+       code="OKC"
+       lat="34.6478N"
+       lon="109.3362W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Atlanta"
+       code="ATL"
+       lat="33.3209N"
+       lon="98.0518W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Birmingham"
+       code="BHM"
+       lat="32.8957N"
+       lon="100.4999W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Albuqurque"
+       code="ABQ"
+       lat="35.3177N"
+       lon="116.9267W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Phoenix"
+       code="PHX"
+       lat="34.5447N"
+       lon="121.6635W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="San Diego"
+       code="SAN"
+       lat="35.1502N"
+       lon="126.3424W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Los Angeles"
+       code="LAX"
+       lat="36.6704N"
+       lon="127.1536W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="San Francisco"
+       code="SFO"
+       lat="41.1408N"
+       lon="128.7905W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Reno"
+       code="RNO"
+       lat="41.2697N"
+       lon="125.8209W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Las Vegas"
+       code="LAS"
+       lat="38.3710N"
+       lon="123.9088W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Denver"
+       code="DEN"
+       lat="39.3115N"
+       lon="115.4057W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Salt Lake City"
+       code="SLC"
+       lat="41.1795N"
+       lon="120.0411W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Helena"
+       code="HLN"
+       lat="47.1314N"
+       lon="119.2444W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Portland"
+       code="PWM"
+       lat="47.8915N"
+       lon="126.3569W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bismarck"
+       code="BIS"
+       lat="45.7272N"
+       lon="111.2048W"
+     />
+   </Record>
+
+    <Record>
+        <Row
+            city="Pierre"
+            code="PIE"
+            lat="43.1699N"
+            lon="110.5892W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Des Moines"
+            code="DESM"
+            lat="40.2841N"
+            lon="105.5337W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Madison"
+            code="MADI"
+            lat="41.8172N"
+            lon="102.7090W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Milwaukee"
+            code="MILW"
+            lat="41.7657N"
+            lon="101.5067W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Cleveland"
+            code="CLE"
+            lat="40.2133N"
+            lon="96.7626W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Rochester"
+            code="ROCH"
+            lat="42.1715N"
+            lon="94.2276W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Syracuse"
+            code="SYR"
+            lat="42.2617N"
+            lon="93.3295W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Richmond"
+            code="RICH"
+            lat="36.7349N"
+            lon="92.8515W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Charleston"
+            code="CHAR"
+            lat="37.7140N"
+            lon="95.9080W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Montgomery"
+            code="MONT"
+            lat="31.8007N"
+            lon="97.3855W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Little Rock"
+            code="LITT"
+            lat="33.9650N"
+            lon="105.1426W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Boise"
+            code="BOI"
+            lat="44.3358N"
+            lon="122.1922W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Olympia"
+            code="OLY"
+            lat="49.9399N"
+            lon="125.4515W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Cheyenne"
+            code="CHEY"
+            lat="40.8445N"
+            lon="114.7466W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Clemson"
+            code="CLEM"
+            lat="33.7073N"
+            lon="96.1397W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Columbia"
+            code="COLUM"
+            lat="33.3209N"
+            lon="94.7057W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Topeka"
+            code="TOPE"
+            lat="37.9587N"
+            lon="107.9890W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Frankfort"
+            code="FRANK"
+            lat="36.7220N"
+            lon="99.3194W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Baton Rouge"
+            code="BATO"
+            lat="29.0695N"
+            lon="103.7085W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Jackson"
+            code="JACK"
+            lat="31.3240N"
+            lon="103.2305W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Santa Fe"
+            code="SFE"
+            lat="35.7429N"
+            lon="115.1812W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Salem"
+            code="SALE"
+            lat="47.6468N"
+            lon="126.6757W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Augusta"
+            code="AUGU"
+            lat="44.3165N"
+            lon="88.5638W"
+            />
+    </Record>
+
+    <Record>
+        <Row
+            city="Concord"
+            code="CONC"
+            lat="42.9251N"
+            lon="89.8965W"
+            />
+    </Record>
+
+</Records>

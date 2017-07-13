@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="Iceland"
+       code="ICE"
+       lat="66.1840N"
+       lon="20.4717W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Great Britain"
+       code="GBR"
+       lat="49.7200N"
+       lon="11.7627W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Ireland"
+       code="IRE"
+       lat="51.6240N"
+       lon="18.7197W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="France"
+       code="FRA"
+       lat="43.4080N"
+       lon="8.7793W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Spain"
+       code="SPA"
+       lat="36.6560N"
+       lon="17.9961W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Portugal"
+       code="PORT"
+       lat="37.1360N"
+       lon="24.6992W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Andorra"
+       code="ANDRA"
+       lat="37.8720N"
+       lon="9.7001W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Monaco"
+       code="MON"
+       lat="39.2960N"
+       lon="4.4188W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Switzerland"
+       code="SWI"
+       lat="43.1520N"
+       lon="2.4130W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Italy"
+       code="ITA"
+       lat="40.7200N"
+       lon="1.7765E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Belgium"
+       code="BELG"
+       lat="47.6671N"
+       lon="5.9548W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Luxembourg"
+       code="LUX"
+       lat="46.4671N"
+       lon="4.2790W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Netherlands"
+       code="NETH"
+       lat="49.1551N"
+       lon="4.1267W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Germany"
+       code="GER"
+       lat="48.0991N"
+       lon="0.1911W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Poland"
+       code="POL"
+       lat="49.4751N"
+       lon="10.7014E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Denmark"
+       code="DENK"
+       lat="53.3151N"
+       lon="0.8513W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Czech"
+       code="CZE"
+       lat="46.6591N"
+       lon="6.3342E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Slovakia"
+       code="SLAK"
+       lat="45.6511N"
+       lon="10.8792E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Austria"
+       code="AUST"
+       lat="44.1791N"
+       lon="5.2678E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Hungary"
+       code="HUN"
+       lat="43.9711N"
+       lon="11.2854E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Slovenia"
+       code="SLOV"
+       lat="42.3231N"
+       lon="6.1057E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Croatia"
+       code="CROT"
+       lat="42.0671N"
+       lon="8.4417E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bosnia"
+       code="BOSH"
+       lat="40.3711N"
+       lon="10.0413E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Montenegro"
+       code="MONT"
+       lat="39.0591N"
+       lon="12.1995E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Serbia"
+       code="SERB"
+       lat="40.6911N"
+       lon="14.4592E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Albania"
+       code="ALB"
+       lat="37.3631N"
+       lon="13.7991E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kosovo"
+       code="KOSO"
+       lat="38.8991N"
+       lon="14.7132E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Malta"
+       code="MLTA"
+       lat="30.9791N"
+       lon="6.7659E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Greece"
+       code="GRE"
+       lat="35.6831N"
+       lon="16.3889E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Macedonia"
+       code="MACE"
+       lat="37.9391N"
+       lon="15.8050E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Bulgaria"
+       code="BULG"
+       lat="39.6831N"
+       lon="19.9182E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Turkey"
+       code="TURK"
+       lat="38.6271N"
+       lon="23.5237E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Romania"
+       code="ROMA"
+       lat="43.0591N"
+       lon="18.4964E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Moldova"
+       code="MOLD"
+       lat="45.4271N"
+       lon="22.5335E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Ukraine"
+       code="UKR"
+       lat="47.9071N"
+       lon="25.3010E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Belarus"
+       code="BELA"
+       lat="52.1311N"
+       lon="19.1819E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Russia"
+       code="RUSS"
+       lat="56.4031N"
+       lon="24.5774E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Lithuania"
+       code="LITH"
+       lat="53.6031N"
+       lon="13.9387E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Latvia"
+       code="LATV"
+       lat="55.5071N"
+       lon="14.9544E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Estonia"
+       code="EST"
+       lat="57.4591N"
+       lon="14.6243E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Finland"
+       code="FINL"
+       lat="62.5151N"
+       lon="11.5266E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Sweden"
+       code="SWE"
+       lat="62.2591N"
+       lon="5.5218E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Norway"
+       code="NOR"
+       lat="59.8271N"
+       lon="0.5212W"
+     />
+   </Record>
+
+</Records>

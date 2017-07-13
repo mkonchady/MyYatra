@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+       city="Morocco"
+       code="MRCO"
+       lat="31.3590N"
+       lon="4.9524W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Western Sahara"
+       code="WSRA"
+       lat="24.3575N"
+       lon="13.3714W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Algeria"
+       code="ALG"
+       lat="27.6180N"
+       lon="2.8571E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Libya"
+       code="LBYA"
+       lat="26.5884N"
+       lon="18.8190E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mauritania"
+       code="MRTA"
+       lat="19.6899N"
+       lon="11.6952W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mali"
+       code="MALI"
+       lat="18.1112N"
+       lon="2.4000W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Senegal"
+       code="SNGL"
+       lat="15.8460N"
+       lon="15.3524W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Gambia"
+       code="GMBA"
+       lat="13.9241N"
+       lon="16.4952W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Guinea Bassau"
+       code="GEBU"
+       lat="12.6885N"
+       lon="15.4667W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Guinea"
+       code="GNEA"
+       lat="11.4530N"
+       lon="12.4571W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Sierra Leone"
+       code="SERLN"
+       lat="8.9476N"
+       lon="12.5714W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Liberia"
+       code="LIB"
+       lat="6.5795N"
+       lon="10.3238W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Cote D'Ivoire"
+       code="COTEI"
+       lat="7.8150N"
+       lon="6.5524W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Ghana"
+       code="GHNA"
+       lat="8.3984N"
+       lon="1.2952W"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Togo"
+       code="TOGO"
+       lat="8.1582N"
+       lon="0.6095E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Benin"
+       code="BNIN"
+       lat="10.4234N"
+       lon="2.1333E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Nigeria"
+       code="NGA"
+       lat="9.9772N"
+       lon="7.0476E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Niger"
+       code="NGR"
+       lat="17.6650N"
+       lon="9.6762E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Cameroon"
+       code="CMON"
+       lat="5.0007N"
+       lon="12.6857E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Equitorial Guinea"
+       code="EQGU"
+       lat="1.8089N"
+       lon="10.7048E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Gabon"
+       code="GBON"
+       lat="0.1131S"
+       lon="12.5714E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Congo"
+       code="CNGO"
+       lat="0.1272N"
+       lon="16.6857E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Central African Republic"
+       code="CAR"
+       lat="7.3688N"
+       lon="20.8381E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Democratic Republic of Congo"
+       code="DRCGO"
+       lat="2.0007S"
+       lon="24.4571E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Rwanda"
+       code="RWA"
+       lat="1.6918S"
+       lon="31.8857E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Burundi"
+       code="BURU"
+       lat="3.0303S"
+       lon="31.6190E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Angola"
+       code="ANG"
+       lat="11.4046S"
+       lon="17.4476E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Zambia"
+       code="ZAM"
+       lat="14.1159S"
+       lon="27.2381E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Tanzania"
+       code="TAZ"
+       lat="6.0849S"
+       lon="36.5333E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Malawi"
+       code="MLWI"
+       lat="12.6401S"
+       lon="35.6571E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Kenya"
+       code="KEN"
+       lat="1.1911N"
+       lon="40.3048E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Somalia"
+       code="SOM"
+       lat="5.0350N"
+       lon="49.1048E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Ethiopia"
+       code="ETH"
+       lat="9.3251N"
+       lon="40.6857E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Djibouti"
+       code="DJB"
+       lat="12.2767N"
+       lon="44.5714E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Eritrea"
+       code="ERT"
+       lat="16.1206N"
+       lon="39.6571E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Sudan"
+       code="SUD"
+       lat="16.3608N"
+       lon="30.6286E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="South Sudan"
+       code="SSUD"
+       lat="7.9866N"
+       lon="31.8857E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Chad"
+       code="CHAD"
+       lat="16.4638N"
+       lon="19.0476E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Madagascar"
+       code="MDGR"
+       lat="18.9894S"
+       lon="47.5810E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Mozambique"
+       code="MZBQ"
+       lat="17.2734S"
+       lon="36.0000E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Zimbabwe"
+       code="ZBWE"
+       lat="17.8568S"
+       lon="30.8571E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Botswana"
+       code="BOTS"
+       lat="20.6711S"
+       lon="24.5714E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Namibia"
+       code="NAMB"
+       lat="22.1469S"
+       lon="17.7905E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="South Africa"
+       code="SAFR"
+       lat="30.0750S"
+       lon="21.3333E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Lesotho"
+       code="LES"
+       lat="28.4962S"
+       lon="28.6095E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Swaziland"
+       code="SWAZ"
+       lat="25.6476S"
+       lon="32.0000E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Egypt"
+       code="EGYP"
+       lat="26.3825N"
+       lon="29.7143E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Uganda"
+       code="UGA"
+       lat="2.5048N"
+       lon="34.4762E"
+     />
+   </Record>
+
+  <Record>
+    <Row
+       city="Burkina Faso"
+       code="BURK"
+       lat="12.7915N"
+       lon="1.7905W"
+    />
+  </Record>
+
+
+</Records>
