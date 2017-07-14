@@ -4,8 +4,6 @@ package org.mkonchady.myyatra;
 import android.util.Log;
 import java.util.ArrayList;
 
-import javax.microedition.khronos.opengles.GL;
-
 /**
  * Genetic Algorithm Manager -- called from PlaceActivity
  */
